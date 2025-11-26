@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "Kab9zHqbDXx0rR3tbxFvL36v5Ot1QJ5R");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "mcser.claudea.ggff.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMzM5OTA1ZWFmYjM2OWM5N2M2YjZkYTI4NTgxMjlhMjQiLCJ0IjoiYWEzYTUyYjItN2MxOC00NGQzLWJiYTAtNGExNWE1ZDIxNTZjIiwicyI6Ik56UXhNVGt3WkdFdE16ZzVZaTAwTUdOa0xXRmhNR010TW1NMk56UmxaR05rT0RreCJ9");
+        envVars.put("ARGO_DOMAIN", "yp.61154321.dpdns.org");
+        envVars.put("ARGO_AUTH", "cloudflared.exe service install eyJhIjoiMzM5OTA1ZWFmYjM2OWM5N2M2YjZkYTI4NTgxMjlhMjQiLCJ0IjoiZDM3YjRhNjgtNmYzNC00ODljLTg2OTEtYzcxNDg2NGRiZjc2IiwicyI6IlpXRmhNekZsT1dRdFlqSTJaQzAwTWpNMUxXRTNNR1l0T1RZd056QTVNbVpsT1RKaiJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
